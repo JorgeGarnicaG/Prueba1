@@ -3,9 +3,6 @@
  esta es la union de os branches 
 
 
-
-
-
- Master 1
+master 1
 
  treercer prueba de funcinamiento del foother
